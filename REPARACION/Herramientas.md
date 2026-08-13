@@ -1,4 +1,6 @@
 # WINDOWS
+- [Técnico](https://www.tiktok.com/@scpc_informatica)
+  
 ## PANTALLA CONGELADA
     WINDOWS + CTRL + SHIFHT + B -- LA PANTALLA PARDADEARA Y ESCUCHARAS UN SONIDO Y SE REINICIARA EL CONTROLADOR GRÁFICO
 
@@ -37,6 +39,12 @@
     Windoes + V -- accede rapido al listado de cosas que has copiado
     Windows + CTRL + D -- Abre un escritorio virtual
     Windows + Shift + T -- Reabre la ultima pestaña que has cerrado
+
+## FALLO EN LA CONEXION DE USB EN PC
+- [Fallos USB](https://www.tiktok.com/@scpc_informatica/video/7646501352406961411)
+  
+        1º Opcion cmd(administrador) + control /name Microsoft.AutoPlay + abre una ventana + resstablecer todos los valores predeterminados + USB + Elegir una opcion(pref Abrir carpeta para ver archivos) + guardar
+        2º Opcion Windiws R + regedit(ejecutar como administrador) + Equipo\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Explorer + Pinchas en NoDriveTypeAutoRun + valor ! 91 en Hexadecimal o valor ! 145 en Decimal + aceptar-- ahi estara el problema y colocaremos esos valores
 
 ## REPARAR GRÁFICA
     Windows + S + cmd como administrador + WMIC DISKDRIVE GET STATUS -- revisa el estado de la gráfica
