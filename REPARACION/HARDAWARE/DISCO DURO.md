@@ -7,6 +7,6 @@
 
 
 <details>
-    <sumary>Fallos Mecanicos</sumary>
+    <summary>Fallos Mecanicos</summary>
     Daños en los platos o en el cabezal de lectura y escritura. Emiten ruidos como chasquidos, clics o zumbidos.
 </details>
