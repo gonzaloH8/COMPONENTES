@@ -1,6 +1,6 @@
 # FALLOS COMUNES Y SUS SOLUCIONES
 <details>
-    <summary>**FALLOS MECÁNICOS**</summary>
+    <summary>FALLOS MECÁNICOS</summary>
     Daños en los platos o en el cabezal de lectura y escritura. Emiten ruidos como chasquidos, clics o zumbidos.
 </details>
 
