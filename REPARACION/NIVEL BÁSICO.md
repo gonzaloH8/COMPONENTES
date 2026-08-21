@@ -3,7 +3,7 @@
 <details>
     <summary>NATIVOS WINDOWS</summary>
 
-Herramientas nativas de Windows SFC y DISM: Comandos de consola integrados para buscar y reparar archivos del sistema dañados o corrompidos de la imagen de Windows.
+Windows SFC: Analiza los archivos protegidos del sistema operativo para detectar errores, daños o modificaciones, y los repara reemplazándolos por copias sanas.
 
 ```
 CMD - EJECUTAR COMO ADMINISTRADOR
@@ -11,7 +11,7 @@ sfc / scannow -- PRESIONA ENTER
 REALIZA EL ANALISIS, EN CASO DE SER MAS PROFUNDO EL DAÑO HACER ESTO:
 DISM.exe /Online /Cleanup-image /Restorehealth -- VUELVE A EJECUTAR SFC
 ```
-
+Windows DISM: repara archivos dañados del sistema operativo, preparar imágenes de instalación y solucionar fallos graves.
 ```
 CMD - EJECUTAR COMO ADMINISTRADOR
 DISM /Online /Cleanup-Image /RestoreHealth -- EJECUTA ESTE COMANDO
