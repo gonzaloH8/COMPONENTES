@@ -41,10 +41,10 @@ Solucionadores de problemas: Apartado dentro de la configuración de Windows par
 <details>
     <summary>INFO DE HARDAWARE</summary>
 
-- [**CPU-Z**](https://www.cpuid.com/): Muestra el modelo exacto de tu procesador, placa base, memoria RAM (velocidad y tipo) y tarjeta gráfica de forma muy ligera.
-- [**GPU-Z**](https://www.techpowerup.com/download/gpu-z/): Detalla los datos clave de tu gráfica como memoria VRAM, tipo de chip, velocidad y temperatura actual.
-- [**HWiNFO**](https://www.hwinfo.com/download/): Ofrece una lista profunda de cada componente de tu PC junto con el monitoreo completo de voltajes y calor.
-- [**Speccy**](https://www.ccleaner.com/es-es/speccy/download?srsltid=AfmBOornRyEuGW-u238zBBOMAxLQU8ZJLYoO978lPyDwpHywdYUZqYwu): Crea un resumen visual y ordenado de todo el equipo (disco duro, audio, sistema operativo y hardware).
+- [**CPU-Z**](https://www.cpuid.com/) Muestra el modelo exacto de tu procesador, placa base, memoria RAM (velocidad y tipo) y tarjeta gráfica de forma muy ligera.
+- [**GPU-Z**](https://www.techpowerup.com/download/gpu-z/) Detalla los datos clave de tu gráfica como memoria VRAM, tipo de chip, velocidad y temperatura actual.
+- [**HWiNFO**](https://www.hwinfo.com/download/) Ofrece una lista profunda de cada componente de tu PC junto con el monitoreo completo de voltajes y calor.
+- [**Speccy**](https://www.ccleaner.com/es-es/speccy/download?srsltid=AfmBOornRyEuGW-u238zBBOMAxLQU8ZJLYoO978lPyDwpHywdYUZqYwu) Crea un resumen visual y ordenado de todo el equipo (disco duro, audio, sistema operativo y hardware).
 
 - **Información del sistema:** Presiona las teclas ```Win + R```, escribe ```msinfo32``` y pulsa ```Enter``` para ver datos detallados de tu equipo. 
 - **Herramienta DirectX:** Presiona ```Win + R```, escribe ```dxdiag``` y presiona ```Enter``` para revisar la pantalla, tarjeta de vídeo y memoria.
@@ -54,38 +54,23 @@ Solucionadores de problemas: Apartado dentro de la configuración de Windows par
 <details>
     <summary>PROGRAMAS EXTERNOS</summary>
 
-- [**CrystalDiskInfo**](https://crystalmark.info/en/software/crystaldiskinfo/) supervisa la salud, la temperatura y el rendimiento de los discos duros (HDD) y unidades de estado sólido (SSD o NVMe)
-- [**Windows Repair Toolbox**](https://windows-repair-toolbox.com/): Un excelente panel portátil y gratuito que reúne las mejores utilidades de terceros para desinfectar, reparar y comprobar el hardware del equipo.
-- Tweaking.com (Windows Repair): Soluciona problemas avanzados comunes como permisos de registro, errores de Windows Update y daños en el firewall.
-- FixWin: Una aplicación gratuita y muy liviana que permite corregir fallos específicos del Explorador de archivos, la interfaz o la red con un solo clic.
-- Microsoft PC Manager: La herramienta oficial de optimización ligera de Microsoft para limpiar basura y acelerar el rendimiento.
-- Malwarebytes / AdwCleaner: Programas esenciales orientados a eliminar virus, troyanos y software publicitario intrusivo (adware) que bloquean el buen funcionamiento del sistema.
+- [**CrystalDiskInfo**](https://crystalmark.info/en/software/crystaldiskinfo/) supervisa la salud, la temperatura y el rendimiento de los discos duros (HDD) y unidades de estado sólido (SSD o NVMe).
+- [**Windows Repair Toolbox**](https://windows-repair-toolbox.com/) Un excelente panel portátil y gratuito que reúne las mejores utilidades de terceros para desinfectar, reparar y comprobar el hardware del equipo.
+- [**Tweaking.com (Windows Repair)**](https://www.tweaking.com/) Soluciona problemas avanzados comunes como permisos de registro, errores de Windows Update y daños en el firewall.
+- [**Microsoft PC Manager**](https://microsoft-pc-manager.uptodown.com/windows) La herramienta oficial de optimización ligera de Microsoft para limpiar basura y acelerar el rendimiento.
 
 </details>
 
 <details>
     <summary>ANTIVIRUS</summary>
 
-- [CrystalDiskInfo](https://crystalmark.info/en/software/crystaldiskinfo/) supervisa la salud, la temperatura y el rendimiento de los discos duros (HDD) y unidades de estado sólido (SSD o NVMe)
-- [Windows Repair Toolbox](https://windows-repair-toolbox.com/): Un excelente panel portátil y gratuito que reúne las mejores utilidades de terceros para desinfectar, reparar y comprobar el hardware del equipo.
-- Tweaking.com (Windows Repair): Soluciona problemas avanzados comunes como permisos de registro, errores de Windows Update y daños en el firewall.
-- FixWin: Una aplicación gratuita y muy liviana que permite corregir fallos específicos del Explorador de archivos, la interfaz o la red con un solo clic.
-- Microsoft PC Manager: La herramienta oficial de optimización ligera de Microsoft para limpiar basura y acelerar el rendimiento.
-- Malwarebytes / AdwCleaner: Programas esenciales orientados a eliminar virus, troyanos y software publicitario intrusivo (adware) que bloquean el buen funcionamiento del sistema.
+- [**Microsoft defender**](https://learn.microsoft.com/en-us/defender-endpoint/configure-microsoft-defender-antivirus-features) revisa archivos, programas, amenazas ocultas del disco duro.
+- [**Malwarebytes**](https://www.malwarebytes.com/es/?x-clickref=1011lDtATyAW&gad_source=1) excelente programa de seguridad, muy eficaz para encontrar y borrar virus ocultos, troyanos y programas espías. La versión gratuita los virus que ya han entrado y premium previene de virus futuros.
+- [**AdwCleaner**](https://www.malwarebytes.com/es/adwcleaner) escanea el registro de Windows, los navegadores y los archivos del sistema para detectar y eliminar publicidad molesta (adware), barras de herramientas indeseadas y programas potencialmente no deseados (PUP).
 
 </details>
 
 ## ACTUACIONES
-
-<details>
-    <summary>EL PC NO ENCIENDE</summary>
-
-- **Cables sueltos:** Revisa que el enchufe, la regleta y el cable de corriente estén bien conectados. 
-- **Memoria RAM floja:** Abre la torre, saca los módulos de RAM, limpia los contactos con una goma de borrar y vuelve a encajarlos.
-- **Fuente de alimentación dañada:** Si no hace ningún ruido ni enciende ningún led, cambia la fuente o prueba en otro enchufe.
-- **Sin señal en el monitor:** Asegúrate de que el cable HDMI o DisplayPort esté conectado a la tarjeta gráfica y no a la placa base.
-    
-</details>
 
 <details>
     <summary>EL PC NO ENCIENDE</summary>
